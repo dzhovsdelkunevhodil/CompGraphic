@@ -48,10 +48,10 @@ public:
 		data.push_back({ 450, 320,  50, 1 });
 		data.push_back({ 470, 450,  70, 1 });
 
-		data.push_back({ 630, 320, 20, 1 });
-		data.push_back({ 650, 370, 15, 1 });
+		data.push_back({ 630, 320, 30, 1 });
+		data.push_back({ 650, 370, 25, 1 });
 		data.push_back({ 600, 380, 50, 1 });
-		data.push_back({ 410, 390, 70, 1 });
+		data.push_back({ 350, 390, 70, 1 });
 
 		sourceLight.push_back({ 550, 50, 75, 1 });
 	}
